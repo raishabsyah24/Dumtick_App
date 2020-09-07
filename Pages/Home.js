@@ -1,14 +1,10 @@
 import React, { Component } from 'react';
 import { Card } from "react-native-elements";
 import {
-  StyleSheet,
   Text,
   FlatList,
   View,
-  Button,
-  Image,
   TouchableOpacity,
-  ImageBackground,
   ScrollView
 } from 'react-native';
 import { Header, Footer, Content } from 'native-base';
